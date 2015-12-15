@@ -1,1 +1,2 @@
-this is a new planet file
+this is a new planet file.
+Pluto.
